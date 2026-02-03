@@ -137,7 +137,7 @@ const NewProp = () => {
     if (answer === "YES") {
       return (
         <div>
-          You just made my heart explode <AppleEmoji emoji="❤️" size={36} />
+          Yay! You just made my heart explode, Ife mi <AppleEmoji emoji="❤️" size={36} />
         </div>
       );
     }
