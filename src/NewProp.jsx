@@ -150,7 +150,7 @@ const NewProp = () => {
     }
     return (
       <div>
-        Shikemi, will you be my Valentine? <AppleEmoji emoji="🥺" size={36} />
+        Ajoke, will you be my Valentine? <AppleEmoji emoji="🥺" size={36} />
       </div>
     );
   };
